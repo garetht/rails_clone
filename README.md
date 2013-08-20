@@ -3,11 +3,10 @@ rails_lite
 
 This project is an attempt to duplicate, using pure Ruby, several features of Ruby on Rails.
 
+See also [activerecord_clone](https://github.com/garetht/activerecord_clone), a clone of selected features of ActiveRecord in pure Ruby.
+
 ## Technologies
 
-* Clone of ActiveRecord
-  * Model objects
-  * Associations: belongs_to, has_many, has_one_through, and associated SQL queries
 * Clone of selected features of Rails with WEBrick
   * Controllers
   * Routers
